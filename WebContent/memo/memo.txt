@@ -1,0 +1,2 @@
+div 요소 내부에 div 요소를 만들고 float속성을주고 외부 div에 패딩값을 주면 부모의 영역밖으로 넘치는 overflow현상이 발생해서 overflow:hidden으로 주어서 해결한다.
+
